@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Knight-code10
+- 👋 Hi, I’m @Stephin
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
